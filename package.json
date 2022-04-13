@@ -1,0 +1,23 @@
+{
+  "name": "openmusicapi",
+  "version": "1.0.0",
+  "description": "Api Music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majidilkhithar/OpenMusicApi.git"
+  },
+  "keywords": [
+    "OpenMusic",
+    "Api"
+  ],
+  "author": "Nur Ali Majid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majidilkhithar/OpenMusicApi/issues"
+  },
+  "homepage": "https://github.com/majidilkhithar/OpenMusicApi#readme"
+}
