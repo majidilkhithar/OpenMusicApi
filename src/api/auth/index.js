@@ -1,0 +1,1 @@
+const AuthHandler = require('./handler');
