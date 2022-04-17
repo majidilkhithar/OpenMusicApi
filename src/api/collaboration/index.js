@@ -8,7 +8,7 @@ module.exports = {
         server,
         { collabsServices, playlistsService, validator }
     ) => {
-        const collabsHandler = new CollabsHandler(server, playlistsService, validator);
+        const collabsHandler = new CollabsHandler(collabsServices, playlistsService, validator);
         server.route(routes(collabsHandler));
     },
 };
