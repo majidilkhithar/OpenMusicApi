@@ -26,7 +26,11 @@
     "eslint-plugin-import": "^2.26.0"
   },
   "dependencies": {
+    "amqplib": "^0.8.0",
     "artifacts": "^0.0.1",
-    "decode": "^0.3.0"
+    "aws-sdk": "^2.1116.0",
+    "decode": "^0.3.0",
+    "pg": "^8.7.3",
+    "redis": "^4.0.6"
   }
 }
